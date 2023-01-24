@@ -1,3 +1,5 @@
 Hola Soy Maria Guillen, una developer neofita
 
 Eso es lo que tu dices
+
+prueba con git reset CABESA
